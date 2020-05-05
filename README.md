@@ -4,18 +4,22 @@ The dataset was obtained from from Kaggle and we will pull this data into a publ
 
 With this project, we will explore how Yelp Reviews is distributed? Any skewness? 
 
-# Data
+## Data
 
 business.json - Contains business data including location, attributes, and categories.
 review.json - Review text data including date, stars, and text.
 user.json - User data including some compliments that the users made. 
 
-# Install & Setup
+## Install & Setup
 Install the packages: pandas, seaborn, keras,and matplotlib. 
 The dataset will be read from S3 and loaded as a pyspark dataframe.
 
-# Data Analysis and Visualizations 
+## Data Analysis and Visualizations 
 The goal is to discover what insights lie hidden in their data.
 
-# Cluster and Notebook Configs
+## Cluster and Notebook Configs
 
+
+
+
+Assets/Buckets.png
