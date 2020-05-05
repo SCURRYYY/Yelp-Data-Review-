@@ -22,3 +22,4 @@ The goal is to discover what insights lie hidden in their data.
 <img width="1048" alt="Cluster" src="https://user-images.githubusercontent.com/60529752/81027999-be9fef80-8e4d-11ea-99a4-2626b737289e.png">
 
 ## S3 Bucket
+<img width="1047" alt="Buckets" src="https://user-images.githubusercontent.com/60529752/81028217-73d2a780-8e4e-11ea-802d-57b32b7203f7.png">
