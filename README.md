@@ -19,7 +19,4 @@ The goal is to discover what insights lie hidden in their data.
 
 ## Cluster and Notebook Configs
 
-
-
-
-Assets/Buckets.png
+https://github.com/SCURRYYY/Yelp-Data-Review-/issues/1#issue-612266566
