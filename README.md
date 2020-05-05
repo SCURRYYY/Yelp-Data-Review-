@@ -18,5 +18,7 @@ The dataset will be read from S3 and loaded as a pyspark dataframe.
 The goal is to discover what insights lie hidden in their data.
 
 ## Cluster and Notebook Configs
+<img width="962" alt="Notebook" src="https://user-images.githubusercontent.com/60529752/81027992-b8aa0e80-8e4d-11ea-8540-0c4faf649fbc.png">
+<img width="1048" alt="Cluster" src="https://user-images.githubusercontent.com/60529752/81027999-be9fef80-8e4d-11ea-99a4-2626b737289e.png">
 
-https://github.com/SCURRYYY/Yelp-Data-Review-/issues/1#issue-612266566
+## S3 Bucket
